@@ -26,6 +26,12 @@ Undergraduate Researcher | June 2026 – August 2026
 - Computed explicit examples and cross-checked calculations to support the team's proofs.
 - Authored a 20-page final research paper and delivered an oral presentation to department faculty and peers.
 
+## Research Paper
+
+-On dynamical and parameter spaces for the Maximally Generalized McMullen family of rational maps
+-Boyd, Cervantes, Foster, Hwang, Marcano, Roughan
+-Submitted Nov. 2026
+
 ## Presentations
 
 **National Association of Mathematicians Conference** | September 2026
