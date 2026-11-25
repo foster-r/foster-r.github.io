@@ -25,7 +25,7 @@ Some questions I find myself thinking about include:
 
 ## Looking ahead
 
-I hope to continue studying mathematics at the graduate level and eventually pursue a career as a professor at a liberal arts institution.
+I hope to continue studying mathematics at the graduate level so I can learn more math and share that with other people.
 
 I'm drawn to the idea of a career that brings together mathematical study, teaching, mentorship, and intellectual community. I want to keep learning mathematics while helping other students discover what makes the subject meaningful to them.
 
