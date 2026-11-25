@@ -3,7 +3,18 @@ layout: page
 title: Welcome
 permalink: /
 ---
+<div class="welcome-section">
+  <img src="/assets/images/profile.jpg"
+       alt="Portrait of Rachel Foster"
+       class="profile-photo">
 
+  <div class="welcome-text">
+    <h2>Welcome</h2>
+    <p>
+      Your existing welcome text goes here.
+    </p>
+  </div>
+</div>
 # Hello, I'm Rachel Foster.
 
 I'm an undergraduate mathematics student interested in mathematical inquiry, mathematics education, teaching, and questions of access and belonging in STEM.
