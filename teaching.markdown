@@ -4,12 +4,6 @@ title: Teaching
 permalink: /teaching/
 ---
 
-## Teaching Philosophy
-
-I believe that mathematics should be a subject in which students feel encouraged to ask questions, explore ideas, and develop confidence in their own mathematical abilities. Learning mathematics is not simply about arriving at the correct answer, but also about understanding the reasoning, making connections, and becoming comfortable with the process of problem-solving.
-
-I am particularly interested in creating learning environments where students feel that they belong in mathematics, regardless of their previous experiences or level of preparation. I hope to approach teaching with patience, curiosity, and an appreciation for the different ways students learn.
-
 ## Teaching Experience
 
 ### Teaching Assistant — Mathematics for Non-Majors
