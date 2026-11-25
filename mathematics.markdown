@@ -20,8 +20,6 @@ I am particularly interested in exploring:
 
 This section will grow to include selected coursework, mathematical projects, written explorations, and other work that reflects my development as a mathematics student.
 
-##REU
-I thought the REU was hard and I felt useless math was hard socializing was hard but I want to do more of both.
 
 ## Looking Ahead
 
