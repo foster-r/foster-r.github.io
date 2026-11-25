@@ -4,7 +4,7 @@ title: Welcome
 permalink: /
 ---
 <div class="welcome-section">
-  <img src="/assets/images/profile.jpg"
+  <img src="/assets/images/profile.jpeg"
        alt="Portrait of Rachel Foster"
        class="profile-photo">
 
