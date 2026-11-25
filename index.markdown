@@ -12,7 +12,7 @@ permalink: /
   <p>
     I'm an undergraduate mathematics student interested in
     mathematical inquiry, mathematics education, teaching,
-    and questions of access and belonging in STEM.
+    and questions of access and belonging in STEM.  I'm an undergraduate mathematics student interested in continuing to explore mathematics beyond my undergraduate education
   </p>
 </div>
 </div>
