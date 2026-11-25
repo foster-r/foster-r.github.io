@@ -8,12 +8,13 @@ permalink: /
        alt="Portrait of Rachel Foster"
        class="profile-photo">
 
-  <div class="welcome-text">
-    <h2>Welcome</h2>
-    <p>
-      Your existing welcome text goes here.
-    </p>
-  </div>
+<div class="welcome-text">
+  <p>
+    I'm an undergraduate mathematics student interested in
+    mathematical inquiry, mathematics education, teaching,
+    and questions of access and belonging in STEM.
+  </p>
+</div>
 </div>
 # Hello, I'm Rachel Foster.
 
