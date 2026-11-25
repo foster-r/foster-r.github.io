@@ -20,4 +20,4 @@ plugins:
 header_pages:
   - about.markdown
   - mathematics.markdown
-  -teaching.markdown
+  - teaching.markdown
