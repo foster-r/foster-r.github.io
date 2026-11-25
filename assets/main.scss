@@ -75,9 +75,9 @@ p {
   margin-bottom: 1.5rem;
 }
 
-/* Footer */
-.site-footer {
-  background-color: var(--sage);
-  border-top: 1px solid #CBD6C7;
-  color: var(--forest);
+.profile-photo {
+  width: 220px;
+  height: 260px;
+  object-fit: cover;
+  border-radius: 6px;
 }
